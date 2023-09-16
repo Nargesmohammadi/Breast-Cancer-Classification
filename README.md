@@ -103,10 +103,6 @@ In this repository I followed these steps:
 
 
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ### Acknowledgments
 
 - This project was inspired by the breast cancer classification problem.
