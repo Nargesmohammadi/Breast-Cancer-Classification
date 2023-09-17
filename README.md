@@ -1,4 +1,3 @@
-![image](https://github.com/Nargesmohammadi/Breast-Cancer-Classification_with_Neural_Network/assets/96385230/03535fae-68a2-4fd3-bf4b-3d2d15788842)
 
 ## Breast Cancer Classification with Neural Network
 
