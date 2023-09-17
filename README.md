@@ -101,6 +101,14 @@ In this repository I followed these steps:
        print("The tumor is Benign")
    ```
 
+   
+
+### Accuracy Graph ![image](https://github.com/Nargesmohammadi/Breast-Cancer-Classification_with_Neural_Network/assets/96385230/3a8b19b0-8c47-4cb4-a819-0c39b82d904f)
+
+
+
+### Loss Graph  ![Uploading image.png…]()
+
 
 
 ### Acknowledgments
