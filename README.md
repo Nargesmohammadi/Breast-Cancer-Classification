@@ -1,4 +1,4 @@
-
+![image](https://github.com/Nargesmohammadi/Breast-Cancer-Classification_with_Neural_Network/assets/96385230/03535fae-68a2-4fd3-bf4b-3d2d15788842)
 
 ## Breast Cancer Classification with Neural Network
 
@@ -103,11 +103,17 @@ In this repository I followed these steps:
 
    
 
-### Accuracy Graph ![image](https://github.com/Nargesmohammadi/Breast-Cancer-Classification_with_Neural_Network/assets/96385230/3a8b19b0-8c47-4cb4-a819-0c39b82d904f)
+### Accuracy Graph 
+
+![image](https://github.com/Nargesmohammadi/Breast-Cancer-Classification_with_Neural_Network/assets/96385230/3a8b19b0-8c47-4cb4-a819-0c39b82d904f)
 
 
 
-### Loss Graph  ![Uploading image.png…]()
+### Loss Graph
+
+![image](https://github.com/Nargesmohammadi/Breast-Cancer-Classification_with_Neural_Network/assets/96385230/42a56628-aed1-41fc-8951-c582c6147c8a)
+
+
 
 
 
